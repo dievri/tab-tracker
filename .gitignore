@@ -111,3 +111,6 @@ fabric.properties
 #custom
 
 .idea/
+
+#database
+server/*.sqlite
